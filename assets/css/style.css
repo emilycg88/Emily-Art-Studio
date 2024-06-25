@@ -1564,3 +1564,6 @@ li .single_team_text p{
     font-size: 1rem;
 
 }
+.main_counter_area .single_counter i{
+    background-color: #ffffff;
+}
